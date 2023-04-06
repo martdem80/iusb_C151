@@ -1,1 +1,3 @@
-here is the information that is held within the lab22.txt file
+here is the information that is held within the lab22.txt filei
+
+here is some added information I would like to add to this file
